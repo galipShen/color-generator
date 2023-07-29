@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from "react-native";
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text>4 mumdur </Text>
+      <Text>brand new </Text>
     </View>
   )
 };
