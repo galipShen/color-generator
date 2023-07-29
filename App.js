@@ -4,7 +4,7 @@ import { View, Text, StyleSheet } from "react-native";
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text>colorgenerator- Git DENEME</Text>
+      <Text>bu da değşşti </Text>
     </View>
   )
 };

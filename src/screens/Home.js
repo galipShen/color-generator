@@ -4,7 +4,7 @@ import React from 'react'
 const Home = () => {
     return (
         <View>
-            <Text>HOME DEGISTI</Text>
+            <Text>Home u add . ile değiştir </Text>
         </View>
     )
 }
